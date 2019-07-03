@@ -1,4 +1,5 @@
 ## Welcome to MapGix GitHub Pages
+This is the test page for MapGix
 
 You can use the [editor on GitHub](https://github.com/NabinPaudel/mapgix.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
